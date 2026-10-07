@@ -1,17 +1,25 @@
-# 🔥 Better Blast Furnace
+<div align="center">
 
-> *Why isn't this in Minecraft?*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF4500,100:FFA500&height=180&section=header&text=Better%20Blast%20Furnace&fontSize=42&fontColor=ffffff&fontAlignY=40" width="100%" alt="Better Blast Furnace Header" />
 
-The Blast Furnace is one of the most underutilized blocks in vanilla Minecraft.
-This datapack expands it with **46 new smelting recipes** — all logically consistent
-with vanilla design and what the Blast Furnace should have been from day one.
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.14%20--%201.21%2B-00FF88?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.minecraft.net/)
+[![Recipes](https://img.shields.io/badge/Added_Recipes-46_New-orange?style=for-the-badge)](https://github.com/X1miyaStudio/Better-Blast-Furnuce)
+[![Type](https://img.shields.io/badge/Type-Pure_Vanilla_Datapack-blue?style=for-the-badge)](https://github.com/X1miyaStudio/Better-Blast-Furnuce)
+[![Studio](https://img.shields.io/badge/Studio-X1miyaStudio-064E3B?style=for-the-badge)](https://t.me/X1miyaStudio)
+
+<p align="center">
+  <b>Почему этого нет в ванильном Minecraft?</b><br/>
+  Плавильная печь — один из самых недооценённых блоков игры. Этот датапак расширяет её функционал 46 логичными высокотемпературными рецептами переплавки.
+</p>
+
+</div>
 
 ---
 
-## ⚙️ Recipes Added
+## ⚙️ Recipes Added / Добавленные рецепты
 
-### 🪨 Stone & Cobblestone
-| Input | Output |
+### 🪨 Stone & Cobblestone / Камень и булыжник
+| Input / Вход | Output / Выход |
 |---|---|
 | Cobblestone | Stone |
 | Stone | Smooth Stone |
@@ -20,178 +28,83 @@ with vanilla design and what the Blast Furnace should have been from day one.
 | Mossy Cobblestone | Cobblestone |
 | Mossy Stone Bricks | Stone Bricks |
 
-### 🫙 Deepslate
-| Input | Output |
+### 🫙 Deepslate / Глубинный сланец
+| Input / Вход | Output / Выход |
 |---|---|
 | Cobbled Deepslate | Deepslate |
 | Deepslate Bricks | Cracked Deepslate Bricks |
 | Deepslate Tiles | Cracked Deepslate Tiles |
 | Chiseled Deepslate | Cracked Deepslate Bricks |
 
-### 🔴 Nether
-| Input | Output |
+### 🔴 Nether / Незер
+| Input / Вход | Output / Выход |
 |---|---|
 | Netherrack | Nether Brick |
 | Nether Bricks | Cracked Nether Bricks |
 | Polished Blackstone Bricks | Cracked Polished Blackstone Bricks |
 
-### 🏺 Clay & Terracotta
-| Input | Output |
+### 🏺 Clay & Terracotta / Глина и терракота
+| Input / Вход | Output / Выход |
 |---|---|
 | Clay Ball | Brick |
 | Clay | Terracotta |
 | Any Colored Terracotta (×16) | Glazed Terracotta |
 
-### 🪟 Sand & Glass
-| Input | Output |
+### 🪟 Sand & Glass / Песок и стекло
+| Input / Вход | Output / Выход |
 |---|---|
 | Sand | Glass |
 | Red Sand | Glass |
 | Sandstone | Smooth Sandstone |
 | Red Sandstone | Smooth Red Sandstone |
 
-### 🗿 Other Blocks
-| Input | Output |
+### 🗿 Other Blocks / Другие блоки
+| Input / Вход | Output / Выход |
 |---|---|
 | Basalt | Smooth Basalt |
 | Quartz Block | Smooth Quartz |
 | Tuff | Polished Tuff *(1.21+)* |
 
-### 📦 Raw Ore Blocks
-| Input | Output |
+### 📦 Raw Ore Blocks / Блоки сырой руды
+| Input / Вход | Output / Выход |
 |---|---|
 | Raw Iron Block | Iron Block |
 | Raw Gold Block | Gold Block |
 | Raw Copper Block | Copper Block |
 
-### ⚔️ Tools & Armor → Materials
-| Input | Output |
+### ⚔️ Tools & Armor → Materials / Инструменты и броня
+| Input / Вход | Output / Выход |
 |---|---|
 | Iron Tools / Armor / Chainmail | Iron Nugget |
 | Gold Tools / Armor / Clock | Gold Nugget |
 | Diamond Tools / Armor | Diamond |
-| Netherite Tools / Armor | Netherite Ingot |
+| Netherrite Tools / Armor | Netherite Ingot |
 
-### 🪵 Bonus
-| Input | Output |
+### 🪵 Bonus / Топливо
+| Input / Вход | Output / Выход |
 |---|---|
 | Any Log | Charcoal |
 
 ---
 
-## 🕹️ Compatibility
+## 🕹️ Compatibility & Installation / Совместимость и установка
 
-- ✅ **Minecraft 1.14 – 1.21+** — single `.zip`, no separate versions needed
-- ✅ No mods required — pure vanilla datapack
-- ✅ Works in singleplayer and on servers
+- ✅ **Minecraft 1.14 – 1.21+** — единый `.zip` файл без разделения по версиям.
+- ✅ **Без модов** — абсолютно чистый ванильный датапак.
+- ✅ **Одиночная игра и мультиплеер** — работает на любом сервере.
 
----
-
-## 📦 Installation
-
-1. Download the `.zip` file
-2. Place it into your world's `datapacks` folder
-3. Run `/reload` in-game (or just load a new world)
+1. Скачайте `.zip` файл.
+2. Поместите его в папку `datapacks` вашего мира.
+3. Выполните команду `/reload` в игре.
 
 ---
 
-*Made by [X1miyaStudio](https://modrinth.com/organization/x1miyastudio)*
+<div align="center">
 
-# 🔥 Better Blast Furnace
+© 2026 **[X1miyaStudio](https://github.com/X1miyaStudio)**
 
-> *Почему этого нет в ванильном Minecraft?*
+[![Telegram](https://img.shields.io/badge/Telegram-@X1miyaStudio-blue?style=flat-square&logo=telegram)](https://t.me/X1miyaStudio)
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/pwk6X8ecNJ)
+[![YouTube](https://img.shields.io/badge/YouTube-Studio_Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@X1miyaStudio)
 
-Плавильная печь — один из самых недооценённых блоков в Minecraft.
-Этот датапак добавляет **46 новых рецептов плавки** — логичных, лаконичных
-и полностью совместимых с ванильным дизайном игры.
-
----
-
-## ⚙️ Добавленные рецепты
-
-### 🪨 Камень
-| Вход | Выход |
-|---|---|
-| Булыжник | Камень |
-| Камень | Гладкий камень |
-| Каменный кирпич | Треснутый каменный кирпич |
-| Тёсаный каменный кирпич | Треснутый каменный кирпич |
-| Замшелый булыжник | Булыжник |
-| Замшелый каменный кирпич | Каменный кирпич |
-
-### 🫙 Глубинный сланец
-| Вход | Выход |
-|---|---|
-| Булыжниковый глубинный сланец | Глубинный сланец |
-| Кирпичи из глубинного сланца | Треснутые кирпичи из глубинного сланца |
-| Плитки из глубинного сланца | Треснутые плитки из глубинного сланца |
-| Тёсаный глубинный сланец | Треснутые кирпичи из глубинного сланца |
-
-### 🔴 Незер
-| Вход | Выход |
-|---|---|
-| Незерак | Кирпич незера |
-| Незерный кирпич | Треснутый незерный кирпич |
-| Полированный кирпич чёрного камня | Треснутый полированный кирпич чёрного камня |
-
-### 🏺 Глина и Терракота
-| Вход | Выход |
-|---|---|
-| Комок глины | Кирпич |
-| Глина | Терракота |
-| Крашеная терракота (×16 цветов) | Глазурованная терракота |
-
-### 🪟 Песок и Стекло
-| Вход | Выход |
-|---|---|
-| Песок | Стекло |
-| Красный песок | Стекло |
-| Песчаник | Гладкий песчаник |
-| Красный песчаник | Гладкий красный песчаник |
-
-### 🗿 Другие блоки
-| Вход | Выход |
-|---|---|
-| Базальт | Гладкий базальт |
-| Кварцевый блок | Гладкий кварц |
-| Туф | Полированный туф *(1.21+)* |
-
-### 📦 Блоки сырых руд
-| Вход | Выход |
-|---|---|
-| Блок сырого железа | Блок железа |
-| Блок сырого золота | Блок золота |
-| Блок сырой меди | Блок меди |
-
-### ⚔️ Инструменты и броня → материалы
-| Вход | Выход |
-|---|---|
-| Железные инструменты / броня / кольчуга | Железный самородок |
-| Золотые инструменты / броня / часы | Золотой самородок |
-| Алмазные инструменты / броня | Алмаз |
-| Незеритовые инструменты / броня | Незеритовый слиток |
-
-### 🪵 Бонус
-| Вход | Выход |
-|---|---|
-| Любое бревно | Древесный уголь |
-
----
-
-## 🕹️ Совместимость
-
-- ✅ **Minecraft 1.14 – 1.21+** — один `.zip` для всех версий
-- ✅ Без модов — только датапак
-- ✅ Работает в одиночной игре и на серверах
-
----
-
-## 📦 Установка
-
-1. Скачайте `.zip`-файл
-2. Поместите его в папку `datapacks` вашего мира
-3. Введите `/reload` в игре (или создайте новый мир)
-
----
-
-*Сделано [X1miyaStudio](https://modrinth.com/organization/x1miyastudio)*
+</div>
