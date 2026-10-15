@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": "minecraft:deepslate_bricks",
+  "result": {
+    "id": "minecraft:cracked_deepslate_bricks"
+  },
+  "experience": 0.1,
+  "cookingtime": 100
+}

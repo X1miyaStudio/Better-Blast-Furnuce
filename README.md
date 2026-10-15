@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF4500,100:FFA500&height=180&section=header&text=Better%20Blast%20Furnace&fontSize=42&fontColor=ffffff&fontAlignY=40" width="100%" alt="Better Blast Furnace Header" />
 
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.14%20--%201.21%2B-00FF88?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.minecraft.net/)
-[![Recipes](https://img.shields.io/badge/Added_Recipes-46_New-orange?style=for-the-badge)](https://github.com/X1miyaStudio/Better-Blast-Furnuce)
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.14%20--%2026.3%2B-00FF88?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.minecraft.net/)
+[![Recipes](https://img.shields.io/badge/Added_Recipes-47_New-orange?style=for-the-badge)](https://github.com/X1miyaStudio/Better-Blast-Furnuce)
 [![Type](https://img.shields.io/badge/Type-Pure_Vanilla_Datapack-blue?style=for-the-badge)](https://github.com/X1miyaStudio/Better-Blast-Furnuce)
 [![Studio](https://img.shields.io/badge/Studio-X1miyaStudio-064E3B?style=for-the-badge)](https://t.me/X1miyaStudio)
 
 <p align="center">
   <b>Почему этого нет в ванильном Minecraft?</b><br/>
-  Плавильная печь — один из самых недооценённых блоков игры. Этот датапак расширяет её функционал 46 логичными высокотемпературными рецептами переплавки.
+  Плавильная печь — один из самых недооценённых блоков игры. Этот датапак расширяет её функционал 47 логичными высокотемпературными рецептами переплавки.
 </p>
 
 </div>
@@ -78,7 +78,7 @@
 | Iron Tools / Armor / Chainmail | Iron Nugget |
 | Gold Tools / Armor / Clock | Gold Nugget |
 | Diamond Tools / Armor | Diamond |
-| Netherrite Tools / Armor | Netherite Ingot |
+| Netherite Tools / Armor | Netherite Ingot |
 
 ### 🪵 Bonus / Топливо
 | Input / Вход | Output / Выход |
@@ -89,13 +89,14 @@
 
 ## 🕹️ Compatibility & Installation / Совместимость и установка
 
-- ✅ **Minecraft 1.14 – 1.21+** — единый `.zip` файл без разделения по версиям.
+- ✅ **Minecraft 1.14 – 26.3+** — единый мультиверсионный `.zip` файл благодаря нативной системе **Overlays** (`overlay_1_21_2`).
 - ✅ **Без модов** — абсолютно чистый ванильный датапак.
-- ✅ **Одиночная игра и мультиплеер** — работает на любом сервере.
+- ✅ **Одиночная игра и мультиплеер** — работает на любом сервере (Vanilla, Fabric, Forge, NeoForge, Paper, Purpur).
 
-1. Скачайте `.zip` файл.
+### Установка:
+1. Скачайте `.zip` файл (`Better Blast Furnace v2.zip` или из релизов).
 2. Поместите его в папку `datapacks` вашего мира.
-3. Выполните команду `/reload` в игре.
+3. Выполните команду `/reload` в игре (или создайте новый мир).
 
 ---
 

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    "minecraft:diamond_pickaxe",
+    "minecraft:diamond_shovel",
+    "minecraft:diamond_axe",
+    "minecraft:diamond_hoe",
+    "minecraft:diamond_sword",
+    "minecraft:diamond_boots",
+    "minecraft:diamond_chestplate",
+    "minecraft:diamond_helmet",
+    "minecraft:diamond_leggings"
+  ],
+  "result": {
+    "id": "minecraft:diamond"
+  },
+  "experience": 100.0,
+  "cookingtime": 200
+}

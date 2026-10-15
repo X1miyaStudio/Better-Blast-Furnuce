@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": "minecraft:polished_blackstone_bricks",
+  "result": {
+    "id": "minecraft:cracked_polished_blackstone_bricks"
+  },
+  "experience": 0.1,
+  "cookingtime": 100
+}

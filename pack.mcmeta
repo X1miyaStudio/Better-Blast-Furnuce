@@ -1,0 +1,25 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 150
+    },
+    "min_format": 15,
+    "max_format": 150,
+    "description": "§4§lBetter Blast Furnace §r§7| §bAll Versions (1.14 - 26.3+)"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": {
+          "min_inclusive": 57,
+          "max_inclusive": 150
+        },
+        "min_format": 57,
+        "max_format": 150,
+        "directory": "overlay_1_21_2"
+      }
+    ]
+  }
+}
