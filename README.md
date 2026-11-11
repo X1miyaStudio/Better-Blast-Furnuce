@@ -3,6 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF4500,100:FFA500&height=180&section=header&text=Better%20Blast%20Furnace&fontSize=42&fontColor=ffffff&fontAlignY=40" width="100%" alt="Better Blast Furnace Header" />
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.14%20--%2026.3%2B-00FF88?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.minecraft.net/)
+[![Modrinth](https://img.shields.io/badge/Modrinth-Download-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/datapack/better-blast-furnace)
+[![CurseForge](https://img.shields.io/badge/CurseForge-Download-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/data-packs/better-blast-furnace-x1miyastudio)
 [![Recipes](https://img.shields.io/badge/Added_Recipes-47_New-orange?style=for-the-badge)](https://github.com/X1miyaStudio/Better-Blast-Furnuce)
 [![Type](https://img.shields.io/badge/Type-Pure_Vanilla_Datapack-blue?style=for-the-badge)](https://github.com/X1miyaStudio/Better-Blast-Furnuce)
 [![Studio](https://img.shields.io/badge/Studio-X1miyaStudio-064E3B?style=for-the-badge)](https://t.me/X1miyaStudio)
@@ -94,7 +96,7 @@
 - ✅ **Одиночная игра и мультиплеер** — работает на любом сервере (Vanilla, Fabric, Forge, NeoForge, Paper, Purpur).
 
 ### Установка:
-1. Скачайте `.zip` файл (`Better Blast Furnace v2.zip` или из релизов).
+1. Скачайте `.zip` файл ([Modrinth](https://modrinth.com/datapack/better-blast-furnace), [CurseForge](https://www.curseforge.com/minecraft/data-packs/better-blast-furnace-x1miyastudio) или `Better Blast Furnace v2.zip` из релизов).
 2. Поместите его в папку `datapacks` вашего мира.
 3. Выполните команду `/reload` в игре (или создайте новый мир).
 
@@ -104,6 +106,8 @@
 
 © 2026 **[X1miyaStudio](https://github.com/X1miyaStudio)**
 
+[![Modrinth](https://img.shields.io/badge/Modrinth-Download-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/datapack/better-blast-furnace)
+[![CurseForge](https://img.shields.io/badge/CurseForge-Download-F16436?style=flat-square&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/data-packs/better-blast-furnace-x1miyastudio)
 [![Telegram](https://img.shields.io/badge/Telegram-@X1miyaStudio-blue?style=flat-square&logo=telegram)](https://t.me/X1miyaStudio)
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/pwk6X8ecNJ)
 [![YouTube](https://img.shields.io/badge/YouTube-Studio_Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@X1miyaStudio)
