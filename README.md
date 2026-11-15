@@ -9,6 +9,8 @@
 [![Type](https://img.shields.io/badge/Type-Pure_Vanilla_Datapack-blue?style=for-the-badge)](https://github.com/X1miyaStudio/Better-Blast-Furnuce)
 [![Studio](https://img.shields.io/badge/Studio-X1miyaStudio-064E3B?style=for-the-badge)](https://t.me/X1miyaStudio)
 
+<p align="center"><img src="MEDIA/feature-en.png" width="760" alt="Better Blast Furnace" /></p>
+
 <p align="center">
   <b>Почему этого нет в ванильном Minecraft?</b><br/>
   Плавильная печь — один из самых недооценённых блоков игры. Этот датапак расширяет её функционал 47 логичными высокотемпературными рецептами переплавки.
